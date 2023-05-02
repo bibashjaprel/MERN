@@ -1,0 +1,10 @@
+.h2wew{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 10px;
+    font-size: 215rem;
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+}
